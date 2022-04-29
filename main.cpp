@@ -29,7 +29,7 @@ class single_llist
 };
  
 
-main()
+int main()
 {
     int choice, nodes, element, position, i;
     single_llist sl;
